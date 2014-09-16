@@ -1,0 +1,7 @@
+[user]
+	name = Sylvain
+	email = sylvain.geneves@gmail.com
+[push]
+	default = simple
+[core]
+	deltaBaseCacheLimit = 1G
