@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/sylvain/prog/kquests/runtime/src/include'
+let g:netrw_dirhist_2='/home/sylvain/prog/JS/chromium/chromium-33.0.1750.58-try/src/third_party/WebKit/PerformanceTests/DOM'
+let g:netrw_dirhist_3='/home/sylvain/prog/JS/v8/tools/gyp'
+let g:netrw_dirhist_4='/home/sylvain/prog/JS/v8/src'
